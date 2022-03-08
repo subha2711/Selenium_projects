@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33108" started-at="2022-02-08T23:55:34 CST" finished-at="2022-02-08T23:56:08 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33108" started-at="2022-02-08T23:55:34 CST" finished-at="2022-02-08T23:56:08 CST">
+      <class name="addCustomer.Add_Customer_TestNg">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="readConfig" is-config="true" duration-ms="19" started-at="2022-02-08T23:55:34 CST" finished-at="2022-02-08T23:55:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="init" is-config="true" duration-ms="3985" started-at="2022-02-08T23:55:35 CST" finished-at="2022-02-08T23:55:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="loginTest" duration-ms="1945" started-at="2022-02-08T23:55:39 CST" finished-at="2022-02-08T23:55:40 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="teardown" is-config="true" duration-ms="773" started-at="2022-02-08T23:55:40 CST" finished-at="2022-02-08T23:55:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="init" is-config="true" duration-ms="2456" started-at="2022-02-08T23:55:41 CST" finished-at="2022-02-08T23:55:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="addCustomer" duration-ms="23028" started-at="2022-02-08T23:55:44 CST" finished-at="2022-02-08T23:56:07 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:addCustomer.Add_Customer_TestNg@5bb21b69]" name="teardown" is-config="true" duration-ms="819" started-at="2022-02-08T23:56:07 CST" finished-at="2022-02-08T23:56:08 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- addCustomer.Add_Customer_TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
